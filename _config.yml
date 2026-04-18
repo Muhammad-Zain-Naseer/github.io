@@ -15,10 +15,9 @@ darkmode: false
 
 # Social links
 github_username: Muhammad-Zain-Naseer
-linkedin_username: muhammad-zain-naseer-9586b027
+linkedin_username: muhammad-zain-naseer
 
 # About Section
-about_profile_image: images/profile.jpg
 about_content: |
   I'm a Computer Science student at **LUMS** with hands-on experience building scalable 
   full-stack and backend systems. I've worked on production SaaS products, AI-integrated 
